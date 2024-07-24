@@ -1,0 +1,261 @@
+.ul1
+{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    
+
+}
+.li1
+{
+    color: rgb(0, 149, 255);
+    padding-left: 120px;
+    font-size: x-large;
+    
+}
+.a1
+{
+    text-decoration: none;
+}
+.a1:hover
+{
+    color: blue;
+ 
+}
+.li{
+    color: rgb(0, 0, 255);
+    font-size: xx-large;
+    padding-right: 350px;
+}
+.head{
+  background-color: white;
+}
+#div1
+{
+    height: 17cm;
+   background-color: azure;
+}
+.p11
+{
+   padding-left: 0.5cm;
+    padding-top: 5cm;
+    font-size: x-large;
+    color: rgb(0, 145, 255);
+}
+.h1
+{
+    padding-left: 0.5cm;
+    color: rgb(0, 0, 255);
+}
+.p12
+{
+   padding-left: 0.5cm;
+    font-size: large;
+    color: rgb(0, 145, 255);
+}
+.download
+{
+    color: white;
+   margin-left: 0.7cm;
+    font-size: large;
+    border-radius: 1cm;
+    background-color:rgb(0, 255, 242);
+    border-color: rgb(4, 0, 255);
+   border-style: none;
+          height: 40px;
+          width: 200px;
+}
+.more
+{
+    color: white;
+   margin-left: 0.7cm;
+    font-size: large;
+    background-color:gray;
+    border-color: gray;
+    border-style: none;
+          height: 40px;
+          width: 200px;
+          border-radius: 1cm;
+}
+.download:hover
+{
+    height: 50px;
+    width: 220px;
+    background-color:rgb(0, 166, 255);
+    border-color: rgb(0, 166, 255);
+
+}
+.more:hover
+{
+    height: 50px;
+    width: 220px;
+    background-color:rgba(128, 128, 128, 0.745);
+}
+.div11
+{    left: 20cm;
+    bottom: 5cm;
+    position: absolute;
+    height: 8cm;
+    width: 10cm;
+    background-color: rgb(127, 214, 255);
+   border-radius: 5cm;
+
+}
+.im1
+{
+    position: absolute;
+    height: 6cm;
+    width: 6cm;
+    left: 2cm;
+    top: 1cm;
+}
+#div2
+{
+    height: 17cm;
+   background-color: white;
+}
+.im2
+{
+    position: absolute;
+    height: 8cm;
+    width: 8cm;
+    left: 2cm;
+    top: 22cm;
+}
+.p21
+{
+    
+    font-size: x-large;
+    color: rgb(0, 145, 255);
+}
+.h2
+{
+    color: black;
+    font-size: xx-large;
+    
+}
+.div22
+{
+    left: 22cm;
+    top: 19cm;
+    position: absolute;
+    height: 8cm;
+    width: 10cm;
+    text-align: justify;
+}
+#div3
+{
+    height: 17cm;
+    background-color: azure;
+    
+}
+.div31
+{
+   
+    text-align: center;
+    
+}
+.p31
+{
+    top: 22cm ;
+    font-size: x-large;
+    color: rgb(0, 145, 255);
+
+}
+.div32
+{
+    padding-left: 11cm;
+}
+.im3
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 0.8cm;
+   
+   
+}
+.im4
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 1cm;
+   
+}
+.im5
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 1cm;
+    
+}
+.im6
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 1cm;
+    
+}
+#div4
+{
+    height: 17cm;
+   background-color: white;
+}
+.div41
+{
+    text-align: center;
+}
+.p41
+{
+    top: 22cm ;
+    font-size: x-large;
+    color: rgb(0, 145, 255);
+}
+#div5
+{
+    height: 10cm;
+    background-color: azure;
+    
+}
+.div51
+{
+    padding-left: 3cm;
+}
+.p51
+{
+    
+    font-size: x-large;
+    color: rgb(0, 145, 255);
+}
+.p52
+{
+    
+    font-size: x-large;
+}
+.im8
+{
+   
+    padding-left: 0.7cm;
+    height: 40px;
+    
+}
+.im9
+{
+   
+    padding-left: 0.7cm;
+    height: 40px;
+    
+}
+.p53
+{
+    font-size: medium;
+    
+}
+#mdiv{
+    position: sticky;
+    top: 0px;
+    z-index: 9999;
+}
+.html
+{
+    scroll-behavior: smooth;
+}
