@@ -24,15 +24,19 @@ i{
 .a1:hover
 {
     color: rgb(140, 0, 255);
- 
+   
 }
 .li{
     color: rgb(0, 0, 255);
     font-size: x-large;
     padding-right: 350px;
 }
+
+    
+
 .head{
   background-color: white;
+
 }
 #div1
 {
@@ -106,7 +110,7 @@ i{
     background-color:rgba(128, 128, 128, 0.745);
 }
 .div11
-{    left: 21cm;
+{    left: 25cm;
     bottom: 5cm;
     position: absolute;
     height: 8cm;
@@ -354,5 +358,12 @@ i{
 }
 .down
 {
-    padding-left: 2cm;
+    padding-left: 4cm;
+}
+.p12{
+    padding-left: 0.5cm;
+}
+.div51
+{
+    padding-top: 3cm;
 }
