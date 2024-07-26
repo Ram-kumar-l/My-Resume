@@ -28,7 +28,7 @@ i{
 }
 .li{
     color: rgb(0, 0, 255);
-    font-size: xx-large;
+    font-size: x-large;
     padding-right: 350px;
 }
 .head{
@@ -142,7 +142,7 @@ i{
     position: absolute;
     height: 8cm;
     width: 8cm;
-    left: 2cm;
+    left: 6cm;
     top: 22cm;
 }
 .p21
@@ -195,12 +195,12 @@ i{
 }
 .div32
 {
-    padding-left: 14cm;
+    padding-left: 12cm;
 }
 .im3
 {
     height: 100px;
-    width: 100px;
+    width: 130px;
     padding-left: 0.2cm;
   
    
@@ -208,21 +208,21 @@ i{
 .im4
 {
     height: 100px;
-    width: 100px;
+    width: 130px;
     padding-left: 1cm;
    
 }
 .im5
 {
     height: 100px;
-    width: 100px;
+    width: 130px;
     padding-left: 1cm;
     
 }
 .im6
 {
     height: 100px;
-    width: 100px;
+    width: 130px;
     padding-left: 1cm;
     
 }
@@ -343,4 +343,16 @@ i{
    
    margin: 0;
     box-sizing: border-box;
+}
+.p22
+{
+    font-size: x-large;
+}
+.font
+{
+    padding-left: 2cm;
+}
+.down
+{
+    padding-left: 2cm;
 }
