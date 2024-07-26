@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://img.freepik.com/premium-vector/businessman-avatar-cartoon-character-profile_18591-50139.jpg" rel="icon">
+    <script src="https://unpkg.com/scrollreveal"></script>
 </head>
 
 
@@ -84,11 +85,11 @@
             <h2 class="h42">What i have made ? </h2>
         </div>
         <div id="div42">
-            <div class="41"></div>
-            <div class="42"></div>
-            <div class="43"></div>
-            <div class="44"></div>
-            <div class="45"></div>
+            <div class="d41"><h2>Gas Sensor Project</h2></div>
+            <div class="d42"><img class="img7" src="bit.jpg"></div>
+            <div class="d43"><h2>Smart Irrigation System</h2></div>
+            <div class="d44"><img class="img8" src="smartirrigationsystem.jpg"></div>
+            <div class="d45"></div>
         </div>
 
 
@@ -110,7 +111,21 @@
             <p class="p53">Copyright <i style="font-size:10px" class="fa">&#9400;</i> 2024.Developed and designed by Ram Kumar</p>
         </div>
     </div>
+    <script>
+        ScrollReveal({ reset: true ,
+            distance: '80px',
+            delay: 20,
+            duration: 1000
+        });
 
+       ScrollReveal().reveal('#div1', { delay: 200,origin:'left' });
+        
+        ScrollReveal().reveal('#div3', { delay: 200,origin:'left' });
+        
+        ScrollReveal().reveal('#div4', { delay: 200,origin:'left' });
+        
+        ScrollReveal().reveal('#div5', { delay: 200,origin:'left' });
+    </script>
 
 
 </body>
